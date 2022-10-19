@@ -1,0 +1,33 @@
+body{
+    background: #222;
+    color:#fff;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 4.5em;
+    text-align: center;
+}
+.portafolio-1{
+    display: inline-block;
+    border: none;
+    padding: 30px;
+
+}
+.portafolio-1 img{
+    width: 180px;
+    border-radius: 17px;   
+}
+.portafolio-1  :hover{
+    transform: scale(1.2);
+    transition: 0.3s;
+}
+.content{
+    position: relative;
+    top: 80px;
+    text-align: center;
+}
+.description{
+    position: relative;
+    top: 120px;
+    text-align: center;   
+}
